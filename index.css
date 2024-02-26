@@ -1,0 +1,84 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 97vh;
+}
+#formNickname{
+    display: grid;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+    border-radius: 5px;
+    width: 30%;
+    padding: 1%;
+
+}
+#formNickname p{
+    justify-self: left;
+}
+#nickname{
+    padding: 3%;
+    border-radius: 5px;
+    border: solid gray 2px;
+}
+#btnProceed{
+    padding: 3%;
+    width: 100px;
+    justify-self: right;
+    margin-top: 3%;
+    color: white;
+    background-color: rgb(3, 43, 66);
+    border-radius: 50px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+#divMenu{
+    width: 85%;
+    background-color: antiquewhite;
+    display: flex;
+}
+#divFour{
+    display: flex;
+}
+.divFourMenu{
+    background-color: aliceblue;
+    width: 22%;
+    border-radius: 5px;
+    margin:1%;
+    text-align: justify;
+    padding: 2%;
+
+}
+#hey{
+    font-size: 20pt;
+    font-style: italic;
+}
+#divHey{
+    display: flex;
+    margin-left: 200px;
+
+}
+.btnReadMore{
+    padding: 3%;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(3, 43, 66);
+    color: white;
+}
+.pMenu{
+    font-size: 18pt;
+    font-weight: bold;
+}
+.divImages{
+    width: 100%;
+}
+.images{
+    width: 100%;
+}
